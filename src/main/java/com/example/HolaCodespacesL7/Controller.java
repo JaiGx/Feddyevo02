@@ -11,6 +11,6 @@ public class Controller{
 
     @GetMapping(path="/")
     public String home (){
-        return "PT72528736 - Julio Rivero";
+        return "sm77044765 - Freddy Jair";
     }
 }
